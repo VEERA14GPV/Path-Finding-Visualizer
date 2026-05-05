@@ -178,10 +178,11 @@ Contributions are welcome. Feel free to:
 
 ---
 
-## 📷 Demo
+## 📸 Application Preview
 
 <img width="1916" height="1019" alt="1" src="https://github.com/user-attachments/assets/71fdadc7-d50e-4cbf-bc7c-019d127e5951" />
 
+Visualization of BFS algorithm finding the shortest path in a grid with obstacles.
 
 ---
 
