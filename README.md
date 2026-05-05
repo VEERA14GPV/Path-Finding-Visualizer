@@ -92,8 +92,8 @@ src/
  │    └── Grid.java
  │
  ├── enums/
- │    ├── CellType.java
- │    └── DirectionMode.java
+      ├── CellType.java
+      └── DirectionMode.java
 ```
 
 ---
